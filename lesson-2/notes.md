@@ -15,7 +15,7 @@ const a = {};
 
 console.log(a);
 ```
-
+()[]
 ---
 
 ### Connection between `.prototype` and `__proto__`

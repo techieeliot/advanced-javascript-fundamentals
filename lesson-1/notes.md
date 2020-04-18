@@ -89,6 +89,7 @@ console.log(Object.getPrototypeOf(wrapperString) === String.prototype)
 - Should try to use the literal syntax for everything.. You can use it on RegExp, Error.. and Date (no literal)
 
 #### Gotchas
+I learned something here about the new keyword. Recircle the wagons here.
 
 ```js
 const foo = false
